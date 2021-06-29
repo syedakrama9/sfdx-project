@@ -1,0 +1,9 @@
+types>
+    <members>DreamHouseSampleDataController</members>
+    <members>DreamHouseSampleDataControllerTest</members>
+    <name>ApexClass</name>
+  </types>
+  <types>
+    <members>DreamHouseSampleData</members>
+    <name>ApexPage</name>
+  </types>
